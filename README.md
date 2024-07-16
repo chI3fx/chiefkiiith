@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning about Bug Bounty Hunting & Blockchain Security 
 - 💞️ I’m looking to collaborate on anything partaining to my interests 
 - 📫 How to reach me ... karungokeith@gmail.com
-- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I enjoy CTF's, not the best but I do
 
 <!---
