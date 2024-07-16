@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chiefkiiith
 - 👀 I’m interested in Cyber Sec. and Forensics 
-- 🌱 I’m currently learning Blockchain Security 
+- 🌱 I’m currently learning about Bug Bounty Hunting & Blockchain Security 
 - 💞️ I’m looking to collaborate on anything partaining to my interests 
 - 📫 How to reach me ... karungokeith@gmail.com
 - 😄 Pronouns: ... He/Him
