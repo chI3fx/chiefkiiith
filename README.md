@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chiefkiiith
+- 👋 Hi, I’m @chI3f
 - 👀 I’m interested in Cyber Sec. and Forensics 
 - 🌱 I’m currently learning about Bug Bounty Hunting & Blockchain Security 
 - 💞️ I’m looking to collaborate on anything partaining to my interests 
