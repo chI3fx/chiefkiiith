@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about Bug Bounty Hunting & Blockchain Security 
 - 💞️ I’m looking to collaborate on anything partaining to my interests 
 - 📫 How to reach me ... xchi3fnetx@proton.me
-- ⚡ Fun fact: ... I enjoy CTF's, not the best but I do
+- ⚡ Fun fact: ... I enjoy CTF's
 
 <!---
 chiefkiiith/chiefkiiith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
