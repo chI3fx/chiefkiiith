@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cyber Sec. and Forensics 
 - 🌱 I’m currently learning about Bug Bounty Hunting & Blockchain Security 
 - 💞️ I’m looking to collaborate on anything partaining to my interests 
-- 📫 How to reach me ... karungokeith@gmail.com
+- 📫 How to reach me ... xchi3fnetx@proton.me
 - ⚡ Fun fact: ... I enjoy CTF's, not the best but I do
 
 <!---
